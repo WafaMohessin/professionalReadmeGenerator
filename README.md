@@ -1,39 +1,36 @@
- # Wafa
-  ![Github badge](https://img.shields.io/badge/license-ISC-blue)
+ # Wafa READM.md generating
+  
 
 ## DESCRIPTION
-node
+create a professional READM file in Node
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
+
 * [Contribution](#contribution)
 * [Test](#test)
 
 ## Installation
-nnpm
+JSON packages (npm)
 
 ## Usage
-I do not know
+to create readme and inform the developers what is the project is about
 
-## License
 
-  This project is covered under the ISC license.
-  
 
 ## Contribution
-guideline
+watch this video to learn
 
 ## Test
-test 
+WE will test it later
 
 
 ## Questions
 
 to reach me for any questions contact me at my:
 
-Github: wafamohessin
-E-mail:wafa@gmail.com
+Github: [WafaMohessin](https://github.com/WafaMohessin)
+E-mail:wafamohessin@gmail.com
 
